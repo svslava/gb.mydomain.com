@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8c6d6b9-ef19-49a0-9769-e0aca85b9817" name="Default" comment="" />
+    <list default="true" id="e8c6d6b9-ef19-49a0-9769-e0aca85b9817" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="gb.mydomain.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +28,7 @@
       <file leaf-file-name="class3.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class3.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.028911564" vertical-offset="0" max-vertical-offset="588">
+            <state line="2" column="8" selection-start="28" selection-end="28" vertical-scroll-proportion="0.05782313" vertical-offset="0" max-vertical-offset="588">
               <folding />
             </state>
           </provider>
@@ -107,6 +109,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -143,7 +149,11 @@
       <created>1403164504502</created>
       <updated>1403164504502</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="from storm2333">
+      <created>1403168329814</created>
+      <updated>1403168329814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -185,7 +195,8 @@
     </option>
     <MESSAGE value="from storm" />
     <MESSAGE value="from storm2" />
-    <option name="LAST_COMMIT_MESSAGE" value="from storm2" />
+    <MESSAGE value="from storm2333" />
+    <option name="LAST_COMMIT_MESSAGE" value="from storm2333" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -193,7 +204,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/class3.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.028911564" vertical-offset="0" max-vertical-offset="588">
+        <state line="2" column="8" selection-start="28" selection-end="28" vertical-scroll-proportion="0.05782313" vertical-offset="0" max-vertical-offset="588">
           <folding />
         </state>
       </provider>
