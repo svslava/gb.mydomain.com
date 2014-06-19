@@ -1,1 +1,3 @@
 class2
+
+comment 23
